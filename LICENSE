@@ -1,0 +1,29 @@
+zenpoint is released under the Apache License, Version 2.0. You may
+optionally choose to use it under any one of the following licenses
+instead, at your option:
+
+- Apache License, Version 2.0
+- GNU General Public License, version 2 only
+- GNU General Public License, version 3 only
+- Mozilla Public License, Version 2.0
+
+SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-only OR GPL-3.0-only OR MPL-2.0
+
+Full license texts are in LICENSES/:
+
+- LICENSES/Apache-2.0.txt
+- LICENSES/GPL-2.0-only.txt
+- LICENSES/GPL-3.0-only.txt
+- LICENSES/MPL-2.0.txt
+
+Every source file in this repository carries the same SPDX expression
+in its header. Contributions are accepted under the same quad terms.
+
+Copyright (c) 2026 haitch <h@ual.li>
+
+This license covers zenpoint's own source and, in a ROM build, the
+patched regions it contributes. It does not cover the unmodified
+Amstrad-copyright bytes carried along inside a built ROM binary, nor
+the unmodified Amstrad ROM images in rom/base/ -- see
+rompatch/AMSTRAD-ROM-PERMISSION.md for the separate permission those
+are redistributed under.

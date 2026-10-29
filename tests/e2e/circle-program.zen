@@ -1,0 +1,16 @@
+wait-boot
+10 type 10
+20 press caps
+22 press sym
+32 release caps
+34 release sym
+50 press sym
+52 press h
+62 release h
+64 release sym
+80 type " 128,50,50"
+100 key enter
+140 shot OUT-stored.png
+160 type R
+180 key enter
+300 shot OUT-run.png

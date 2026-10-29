@@ -1,0 +1,13 @@
+.DS_Store
+.ed-journal.json
+build/
+dist/
+tests/harness/harness
+tests/dbg/dbg
+tools/__pycache__/
+tests/vectors/
+tests/bench/bench
+tests/boot/boottest
+tests/boot/diag
+tests/boot/diag2
+tests/circle/circletest

@@ -1,0 +1,12 @@
+wait-boot
+10 press caps
+12 press sym
+22 release caps
+24 release sym
+40 press sym
+42 press h
+52 release h
+54 release sym
+70 type " 128,50,50"
+90 key enter
+200 shot OUT
